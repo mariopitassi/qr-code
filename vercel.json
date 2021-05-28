@@ -1,5 +1,5 @@
 {
   "redirects": [
-    { "source": "*", "destination": "https://www.notion.so/marioo/Carte-de-visite-50cf8c58f7114ad9a1b081a52214846c" }
+    { "source": "/", "destination": "https://www.notion.so/marioo/Carte-de-visite-50cf8c58f7114ad9a1b081a52214846c" }
   ]
 }
